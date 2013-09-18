@@ -1,0 +1,9 @@
+Name                    acerage     best        worst
+Merge Sort              O(nlogn)    O(nlogn)    O(nlogn)
+Quick Sort              O(nlogn)    O(nlogn)    O(n^2)
+Shell Sort              ?           O(n)        ?
+Bubble Sort             O(n^2)      O(n)        O(n^2)
+Selection Sort          O(n^2)      O(n^2)      O(n^2)
+Insertion Sort          O(n^2)      O(n)        O(n^2)
+Heap Sort               O(nlogn)    O(nlogn)    O(nlogn)
+Radix Sort              ?           O(d(n+rd))  O(d(n+rd))
