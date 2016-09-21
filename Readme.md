@@ -45,6 +45,10 @@ you can test as:
     Test 1E6 with the sorting algorithm Quick.
 
 
+If you find any bugs or errors please send me an email by:
+mailto:ronnie.lee@foxmail.com
+
+
 
 
 
