@@ -1,8 +1,1 @@
-Bubble.cpp        0.272s
-Heap.cpp          0.012s
-Insertion.cpp     0.052s
-Merge.cpp         0.008s
-Quick.cpp         0.008s
-Radix.cpp         0.012s
-Selection.cpp     0.136s
-Shell.cpp         0.008s
+Quick.cpp         2.755s

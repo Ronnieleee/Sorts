@@ -40,7 +40,7 @@ do
     #cat $x | wc -c | tr -d "\n" >> Test/-TestResult
     printf "%-18s" "$x" >> Test/-TestResult
     (time $binname > Test/-Result < Test/-TestData) 2>&1 | tr -d "\n" >> Test/-TestResult
-    #sa -a | grep -P "`basename $x .cpp`$" | awk '{print "\t\t"$5}' | tr -d "\n" >> Test/-TestResult
+    sa -a | grep -P "`basename $x .cpp`$" | awk '{print "\t\t"$5}' | tr -d "\n" >> Test/-TestResult
     echo "" >> Test/-TestResult
     diffmsg=$(diff -q Test/-Answer Test/-Result)
     if test -n "$diffmsg"
