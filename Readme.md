@@ -1,3 +1,7 @@
+Aiming at testing the sorting algorthms running time.
+Run the command then it will show you the running time.
+
+
 Sorting Algorithms:
     Bubble
     Heap
@@ -45,8 +49,10 @@ you can test as:
     Test 1E6 with the sorting algorithm Quick.
 
 
+
+### Bugs
 If you find any bugs or errors please send me an email by:
-mailto:ronnie.lee@foxmail.com
+ronnie.lee@foxmail.com
 
 
 
